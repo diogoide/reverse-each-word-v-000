@@ -7,5 +7,5 @@ def reverse_each_word(sentence)
     sentence_array << "#{word}".reverse
     end
     #array back to string
-    puts sentence_array.join (" ")
+    puts sentence_array.join(" ")
 end
